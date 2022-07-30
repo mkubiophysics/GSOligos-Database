@@ -6,6 +6,10 @@ The database of Oligonucleotide specific to Mycobacterium Avium complex (MAC)
 ![Figure](https://user-images.githubusercontent.com/108401291/181876744-709e98f0-cc93-43f4-8597-4473dd909e71.jpg)
 
 
+Pre-Requisite:
+. NCBI-BLAST (standalone)
+
+
 COMMANDS:
 Fastq to fasta conversion
 
