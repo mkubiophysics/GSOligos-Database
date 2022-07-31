@@ -1,8 +1,8 @@
 # GSOligos-Database
 The database of Oligonucleotide specific to Mycobacterium Avium complex (MAC)
 
-![Untitled (3)](https://user-images.githubusercontent.com/43175313/181880395-c4c58133-aa15-4249-9657-672fbd156b27.jpg)
 
+![Untitled](https://user-images.githubusercontent.com/43175313/182015217-b624b342-2b52-47ed-8087-93066f1e0895.jpg)
 
 
 
