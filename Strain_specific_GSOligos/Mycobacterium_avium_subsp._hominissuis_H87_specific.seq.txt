@@ -1,0 +1,10 @@
+>STr_CP018363.35_1
+atggctgagcgattacgtccgggtgaggtgcgggacgcgatctttgcctt
+>STr_CP018363.35_14
+cggactcatcagtgcgctcgtacttgcggctgaacacgcctaagtcattc
+>STr_CP018363.35_2
+gattacgtccgggtgaggtgcgggacgcgatctttgccttctttaaggag
+>STr_CP018363.35_3
+gggtgaggtgcgggacgcgatctttgccttctttaaggagtcgcaggtcg
+>STr_CP018363.35_4
+cgggacgcgatctttgccttctttaaggagtcgcaggtcgaggacgcgtc
